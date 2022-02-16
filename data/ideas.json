@@ -1,0 +1,82 @@
+[
+  {
+    "title": "PhotoVogue Chrome extension",
+    "authors": "Bala Clark",
+    "ideaId": "1",
+    "description": "PhotoVogue Chrome extension. Shows today's pic of the day in the chrome new tab.",
+    "category": "Advertisement",
+    "event": "Hackathon 2022",
+    "additionalInfo": "",
+    "documents": ""
+  },
+  {
+    "title": "SDUI for native mobile apps",
+    "authors": "Arun, Shraddha, Lavish, Himanshi, Chethan",
+    "ideaId": "2",
+    "description": "SDUI for native mobile apps.",
+    "category": "Digital",
+    "event": "Hackathon 2022",
+    "additionalInfo": "",
+    "documents": ""
+  },
+  {
+    "title": "User entitlements by running JavaScript at edges on Fastly",
+    "authors": "Arun, Shraddha, Lavish, Himanshi, Chethan, Srikanth",
+    "ideaId": "3",
+    "description": "Experimenting resolving user entitlements by running JavaScript at edges on Fastly ",
+    "category": "Technology",
+    "event": "Hackathon 2022",
+    "additionalInfo": "",
+    "documents": ""
+  },
+  {
+    "title": "Idea Harvest portal",
+    "authors": "Nihar, Rashmi, Sneha and Suresh",
+    "ideaId": "4",
+    "description": "A place for us to collaborate bringing in all the novice ideas under one Condenast platform!",
+    "category": "Tools",
+    "event": "Hackathon 2022",
+    "additionalInfo": "",
+    "documents": ""
+  },
+  {
+    "title": "Possible cross-sell opportunity for subscriptions",
+    "authors": "Team AD",
+    "ideaId": "5",
+    "description": "A single map showing everything from all brands e.g. Directory profiles, hotels on CNT & restaurants, shops on vogue as possible cross-sell opportunity for subscriptions",
+    "category": "Brands",
+    "event": "Hackathon 2022",
+    "additionalInfo": "",
+    "documents": ""
+  },
+  {
+    "title": "Bookmark-Notes - a extension",
+    "authors": "Team Ad & GQ",
+    "ideaId": "6",
+    "description": "Bookmark-Notes - a extension that help us to preview, manage our bookmarks and convert to short notes ",
+    "category": "Others",
+    "event": "Hackathon 2022",
+    "additionalInfo": "",
+    "documents": ""
+  },
+  {
+    "title": "Github developer insights",
+    "authors": "Nate Laws",
+    "ideaId": "8",
+    "description": "Let's pull github PR contributor info and do some analysis and data viz on it. Some stats to see over time could be number of files changed, lines changed, highest reviewers, etc.",
+    "category": "Tools",
+    "event": "Hackathon 2022",
+    "additionalInfo": "",
+    "documents": ""
+  },
+  {
+    "title": "Contextual Product Marketing",
+    "authors": "Prashant, Ameen, Saahithi, Sharique, Rajashree",
+    "ideaId": "7",
+    "description": "Contextual Product Marketing- using recognition api to scan videos or images and create dynamic cart, and make it available to purchase through affiliate channel partner using unified platform having cross brand product recirculation ",
+    "category": "Advertisement",
+    "event": "Hackathon 2022",
+    "additionalInfo": "",
+    "documents": ""
+  }
+]

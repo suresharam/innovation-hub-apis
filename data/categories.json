@@ -1,0 +1,26 @@
+[
+  {
+    "categoryName": "Technology",
+    "categoryId": 1
+  },
+  {
+    "categoryName": "Digital",
+    "categoryId": 2
+  },
+  {
+    "categoryName": "Brands",
+    "categoryId": 3
+  },
+  {
+    "categoryName": "Tools",
+    "categoryId": 4
+  },
+  {
+    "categoryName": "Advertisement",
+    "categoryId": 5
+  },
+  {
+    "categoryName": "Others",
+    "categoryId": 6
+  }
+]
