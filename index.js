@@ -5,14 +5,7 @@ const rfs = require("rotating-file-stream");
 const database = require("./src/config/database");
 const router = require("./src/config/router");
 
-const result = require("dotenv").config();
-if (result.error) {
-  throw result.error;
-}
-// read environments
-
-const PORT = process.env.PORT || 8080;
-const HOST = process.env.HOST || "localhost";
+const {PORT = 8080, HOST = 'localhost'} = process.env
 
 // create express app
 const app = express();
