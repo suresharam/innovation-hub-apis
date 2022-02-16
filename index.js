@@ -5,7 +5,7 @@ const rfs = require("rotating-file-stream");
 const database = require("./src/config/database");
 const router = require("./src/config/router");
 
-const {PORT = 8080, HOST = 'localhost'} = process.env
+// const {PORT = 8080, HOST = 'localhost'} = process.env
 
 // create express app
 const app = express();
@@ -41,9 +41,13 @@ const startServer = async () => {
   await init();
   app.use("/", router);
 
-  app.listen(PORT, HOST, () => {
+  app.listen(process.env.PORT || 5000, () => {
     // eslint-disable-next-line no-console
-    console.log(`${new Date()} : Server is running at http://${HOST}:${PORT}`);
+    console.log(
+      `${new Date()} : Server is running at http://localhost:${
+        process.env.PORT
+      }}`
+    );
   });
 };
 
